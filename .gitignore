@@ -1,8 +1,9 @@
 build/
 *.csv
 *.json
-*.png
 *.o
 create_project.py
+update_engine.py
+update_cyberpunk.py
 generate_readme.py
 retinal_prosthetic_engine
