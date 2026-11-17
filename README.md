@@ -1,6 +1,6 @@
 # 🦾 CYBERNETIC RETINAL PROSTHETIC ENGINE
 
-> **Sub-100µs Kiroshi-Class 1000 FPS Synthetic Optics & 1024-Channel Neuromorphic Neural Injector**
+> **Sub-Millisecond (P99 < 421.5µs) Kiroshi-Class 1000 FPS Synthetic Optics & 1024-Channel Neuromorphic Neural Injector**
 
 [![C++20 Standard](https://img.shields.io/badge/C%2B%2B-20-00F0FF.svg?style=flat-square&logo=cplusplus)](https://isocpp.org/)
 [![CUDA 12.8 Accelerated](https://img.shields.io/badge/CUDA-12.8-76B900.svg?style=flat-square&logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
@@ -132,7 +132,7 @@ The engine outputs real-time visual diagnostic assets rendered in dark mode HUD 
 
 ### Stage Breakdown & 1024-Channel Neural Activation
 ![Stage Breakdown](assets/stage_breakdown.png)
-*Figure 3: Microsecond-scale latency distribution per processing stage.*
+*Figure 3: Microsecond-scale latency distribution per processing stage (Log Scale).*
 
 ![Retinal 1024ch Activation](assets/retinal_1024ch_activation.png)
 *Figure 4: 1024-Channel Phased-Array Neural Stimulation Current Heatmap (32x32 Grid).*
